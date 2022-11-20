@@ -8,5 +8,9 @@ public class test1 {
         System.out.println("aaa1");
         System.out.println("bbb");
         System.out.println("fff");
+        System.out.println("aaa2");
+        System.out.println("bbb");
+        System.out.println("fff");
+
     }
 }
